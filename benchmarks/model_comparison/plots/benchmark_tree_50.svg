@@ -1,0 +1,1939 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="toyplot-canvas-Canvas"
+   width="800.0px"
+   height="1600.0px"
+   viewBox="0 0 800.0 1600.0"
+   preserveAspectRatio="xMidYMid meet"
+   style="background-color:transparent;border-color:#292724;border-style:none;border-width:1.0;fill:rgb(16.1%,15.3%,14.1%);fill-opacity:1.0;font-family:Helvetica;font-size:12px;opacity:1.0;stroke:rgb(16.1%,15.3%,14.1%);stroke-opacity:1.0;stroke-width:1.0"
+   id="tbd430df29fe34898a53e5111ec7c703d"
+   version="1.1"
+   sodipodi:docname="benchmark_tree_50.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+  <metadata
+     id="metadata24282">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs24280">
+    <clipPath
+       id="t3700b025d936465eb35b43670fedd3af">
+      <rect
+         x="-20.0"
+         y="-20.0"
+         width="740.0"
+         height="1640.0"
+         id="rect23437" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     id="namedview24278"
+     showgrid="false"
+     inkscape:zoom="0.52569536"
+     inkscape:cx="-108.84984"
+     inkscape:cy="1481.0028"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="tbd430df29fe34898a53e5111ec7c703d" />
+  <g
+     clip-path="url(#t3700b025d936465eb35b43670fedd3af)"
+     id="g24208">
+    <g
+       class="toytree-mark-Toytree"
+       id="t6440b7b42e8c4536976f5e462906b893">
+      <g
+         class="toytree-Edges"
+         style="fill:none;stroke:#232323;stroke-width:2;stroke-linecap:round;stroke-opacity:1"
+         id="g23509">
+        <path
+           d="M 18.8,643.5 V 279.2 h 164.8"
+           id="69,68" />
+        <path
+           d="m 18.8,643.5 v 364.2 h 164.8"
+           id="69,67" />
+        <path
+           d="M 183.6,279.2 V 94.8 h 164.8"
+           id="68,66" />
+        <path
+           d="M 183.6,279.2 V 463.7 H 348.4"
+           id="68,65" />
+        <path
+           d="M 183.6,1007.7 V 821.9 h 164.8"
+           id="67,64" />
+        <path
+           d="m 183.6,1007.7 v 185.7 h 164.8"
+           id="67,63" />
+        <path
+           d="M 348.4,94.8 V 47.4 h 164.8"
+           id="66,62" />
+        <path
+           d="m 348.4,94.8 v 47.5 h 164.8"
+           id="66,61" />
+        <path
+           d="M 348.4,463.7 V 284.5 h 164.8"
+           id="65,60" />
+        <path
+           d="m 348.4,463.7 v -5.3 h 164.8"
+           id="65,59" />
+        <path
+           d="M 348.4,463.7 V 648.1 H 513.2"
+           id="65,58" />
+        <path
+           d="M 348.4,821.9 V 774.5 H 513.2"
+           id="64,57" />
+        <path
+           d="m 348.4,821.9 v 47.5 h 164.8"
+           id="64,56" />
+        <path
+           d="m 348.4,1193.4 v -245 h 164.8"
+           id="63,55" />
+        <path
+           d="M 348.4,1193.4 V 1011.6 H 513.2"
+           id="63,54" />
+        <path
+           d="m 348.4,1193.4 v -87 h 164.8"
+           id="63,53" />
+        <path
+           d="m 348.4,1193.4 v 23.7 h 164.8"
+           id="63,52" />
+        <path
+           d="m 348.4,1193.4 v 165.9 h 164.8"
+           id="63,51" />
+        <path
+           d="m 348.4,1193.4 v 324 h 164.8"
+           id="63,50" />
+        <path
+           d="M 513.2,47.4 V 31.6 H 678"
+           id="62,49" />
+        <path
+           d="M 513.2,47.4 V 63.2 H 678"
+           id="62,48" />
+        <path
+           d="M 513.2,142.3 V 94.8 H 678"
+           id="61,47" />
+        <path
+           d="M 513.2,142.3 V 126.5 H 678"
+           id="61,46" />
+        <path
+           d="m 513.2,142.3 v 15.8 H 678"
+           id="61,45" />
+        <path
+           d="m 513.2,142.3 v 47.4 H 678"
+           id="61,44" />
+        <path
+           d="M 513.2,284.5 V 221.3 H 678"
+           id="60,43" />
+        <path
+           d="M 513.2,284.5 V 252.9 H 678"
+           id="60,42" />
+        <path
+           d="m 513.2,284.5 v 0 H 678"
+           id="60,41" />
+        <path
+           d="m 513.2,284.5 v 31.6 H 678"
+           id="60,40" />
+        <path
+           d="m 513.2,284.5 v 63.2 H 678"
+           id="60,39" />
+        <path
+           d="m 513.2,458.4 v -79 H 678"
+           id="59,38" />
+        <path
+           d="M 513.2,458.4 V 411 H 678"
+           id="59,37" />
+        <path
+           d="M 513.2,458.4 V 442.6 H 678"
+           id="59,36" />
+        <path
+           d="m 513.2,458.4 v 15.8 H 678"
+           id="59,35" />
+        <path
+           d="m 513.2,458.4 v 47.4 H 678"
+           id="59,34" />
+        <path
+           d="m 513.2,458.4 v 79 H 678"
+           id="59,33" />
+        <path
+           d="M 513.2,648.1 V 569 H 678"
+           id="58,32" />
+        <path
+           d="M 513.2,648.1 V 600.6 H 678"
+           id="58,31" />
+        <path
+           d="M 513.2,648.1 V 632.3 H 678"
+           id="58,30" />
+        <path
+           d="m 513.2,648.1 v 15.8 H 678"
+           id="58,29" />
+        <path
+           d="m 513.2,648.1 v 47.4 H 678"
+           id="58,28" />
+        <path
+           d="m 513.2,648.1 v 79 H 678"
+           id="58,27" />
+        <path
+           d="M 513.2,774.5 V 758.7 H 678"
+           id="57,26" />
+        <path
+           d="m 513.2,774.5 v 15.8 H 678"
+           id="57,25" />
+        <path
+           d="M 513.2,869.4 V 821.9 H 678"
+           id="56,24" />
+        <path
+           d="M 513.2,869.4 V 853.5 H 678"
+           id="56,23" />
+        <path
+           d="m 513.2,869.4 v 15.8 H 678"
+           id="56,22" />
+        <path
+           d="m 513.2,869.4 v 47.4 H 678"
+           id="56,21" />
+        <path
+           d="m 513.2,948.4 v 0 H 678"
+           id="55,20" />
+        <path
+           d="M 513.2,1011.6 V 980 H 678"
+           id="54,19" />
+        <path
+           d="m 513.2,1011.6 v 0 H 678"
+           id="54,18" />
+        <path
+           d="m 513.2,1011.6 v 31.6 H 678"
+           id="54,17" />
+        <path
+           d="m 513.2,1106.4 v -31.6 H 678"
+           id="53,16" />
+        <path
+           d="m 513.2,1106.4 v 0 H 678"
+           id="53,15" />
+        <path
+           d="m 513.2,1106.4 v 31.7 H 678"
+           id="53,14" />
+        <path
+           d="m 513.2,1217.1 v -47.4 H 678"
+           id="52,13" />
+        <path
+           d="m 513.2,1217.1 v -15.8 H 678"
+           id="52,12" />
+        <path
+           d="m 513.2,1217.1 v 15.8 H 678"
+           id="52,11" />
+        <path
+           d="m 513.2,1217.1 v 47.4 H 678"
+           id="52,10" />
+        <path
+           d="m 513.2,1359.3 v -63.2 H 678"
+           id="51,9" />
+        <path
+           d="m 513.2,1359.3 v -31.6 H 678"
+           id="51,8" />
+        <path
+           d="m 513.2,1359.3 v 0 H 678"
+           id="51,7" />
+        <path
+           d="M 513.2,1359.3 V 1391 H 678"
+           id="51,6" />
+        <path
+           d="m 513.2,1359.3 v 63.3 H 678"
+           id="51,5" />
+        <path
+           d="m 513.2,1517.4 v -63.2 H 678"
+           id="50,4" />
+        <path
+           d="m 513.2,1517.4 v -31.6 H 678"
+           id="50,3" />
+        <path
+           d="m 513.2,1517.4 v 0 H 678"
+           id="50,2" />
+        <path
+           d="M 513.2,1517.4 V 1549 H 678"
+           id="50,1" />
+        <path
+           d="m 513.2,1517.4 v 63.2 H 678"
+           id="50,0" />
+      </g>
+      <g
+         class="toytree-Nodes"
+         style="fill:#66c2a3;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         id="g23721">
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-0"
+           transform="translate(678.01,1580.637)">
+          <circle
+             r="10"
+             id="circle23511"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-1"
+           transform="translate(678.01,1549.024)">
+          <circle
+             r="10"
+             id="circle23514"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-2"
+           transform="translate(678.01,1517.412)">
+          <circle
+             r="10"
+             id="circle23517"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-3"
+           transform="translate(678.01,1485.799)">
+          <circle
+             r="10"
+             id="circle23520"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-4"
+           transform="translate(678.01,1454.186)">
+          <circle
+             r="10"
+             id="circle23523"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#f08080"
+           fill-opacity="1"
+           id="node-5"
+           transform="translate(678.01,1422.573)">
+          <circle
+             r="10"
+             id="circle23526"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-6"
+           transform="translate(678.01,1390.961)">
+          <circle
+             r="10"
+             id="circle23529"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-7"
+           transform="translate(678.01,1359.348)">
+          <circle
+             r="10"
+             id="circle23532"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-8"
+           transform="translate(678.01,1327.735)">
+          <circle
+             r="10"
+             id="circle23535"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-9"
+           transform="translate(678.01,1296.122)">
+          <circle
+             r="10"
+             id="circle23538"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-10"
+           transform="translate(678.01,1264.51)">
+          <circle
+             r="10"
+             id="circle23541"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-11"
+           transform="translate(678.01,1232.897)">
+          <circle
+             r="10"
+             id="circle23544"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-12"
+           transform="translate(678.01,1201.284)">
+          <circle
+             r="10"
+             id="circle23547"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-13"
+           transform="translate(678.01,1169.672)">
+          <circle
+             r="10"
+             id="circle23550"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-14"
+           transform="translate(678.01,1138.059)">
+          <circle
+             r="10"
+             id="circle23553"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-15"
+           transform="translate(678.01,1106.446)">
+          <circle
+             r="10"
+             id="circle23556"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-16"
+           transform="translate(678.01,1074.833)">
+          <circle
+             r="10"
+             id="circle23559"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-17"
+           transform="translate(678.01,1043.221)">
+          <circle
+             r="10"
+             id="circle23562"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-18"
+           transform="translate(678.01,1011.608)">
+          <circle
+             r="10"
+             id="circle23565"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-19"
+           transform="translate(678.01,979.995)">
+          <circle
+             r="10"
+             id="circle23568"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-20"
+           transform="translate(678.01,948.382)">
+          <circle
+             r="10"
+             id="circle23571"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-21"
+           transform="translate(678.01,916.77)">
+          <circle
+             r="10"
+             id="circle23574"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-22"
+           transform="translate(678.01,885.157)">
+          <circle
+             r="10"
+             id="circle23577"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-23"
+           transform="translate(678.01,853.544)">
+          <circle
+             r="10"
+             id="circle23580"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-24"
+           transform="translate(678.01,821.931)">
+          <circle
+             r="10"
+             id="circle23583"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-25"
+           transform="translate(678.01,790.319)">
+          <circle
+             r="10"
+             id="circle23586"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-26"
+           transform="translate(678.01,758.706)">
+          <circle
+             r="10"
+             id="circle23589"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-27"
+           transform="translate(678.01,727.093)">
+          <circle
+             r="10"
+             id="circle23592"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-28"
+           transform="translate(678.01,695.48)">
+          <circle
+             r="10"
+             id="circle23595"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-29"
+           transform="translate(678.01,663.868)">
+          <circle
+             r="10"
+             id="circle23598"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-30"
+           transform="translate(678.01,632.255)">
+          <circle
+             r="10"
+             id="circle23601"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-31"
+           transform="translate(678.01,600.642)">
+          <circle
+             r="10"
+             id="circle23604"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-32"
+           transform="translate(678.01,569.029)">
+          <circle
+             r="10"
+             id="circle23607"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-33"
+           transform="translate(678.01,537.417)">
+          <circle
+             r="10"
+             id="circle23610"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-34"
+           transform="translate(678.01,505.804)">
+          <circle
+             r="10"
+             id="circle23613"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-35"
+           transform="translate(678.01,474.191)">
+          <circle
+             r="10"
+             id="circle23616"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-36"
+           transform="translate(678.01,442.578)">
+          <circle
+             r="10"
+             id="circle23619"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-37"
+           transform="translate(678.01,410.966)">
+          <circle
+             r="10"
+             id="circle23622"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-38"
+           transform="translate(678.01,379.353)">
+          <circle
+             r="10"
+             id="circle23625"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-39"
+           transform="translate(678.01,347.74)">
+          <circle
+             r="10"
+             id="circle23628"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#f08080"
+           fill-opacity="1"
+           id="node-40"
+           transform="translate(678.01,316.127)">
+          <circle
+             r="10"
+             id="circle23631"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-41"
+           transform="translate(678.01,284.515)">
+          <circle
+             r="10"
+             id="circle23634"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-42"
+           transform="translate(678.01,252.902)">
+          <circle
+             r="10"
+             id="circle23637"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-43"
+           transform="translate(678.01,221.289)">
+          <circle
+             r="10"
+             id="circle23640"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-44"
+           transform="translate(678.01,189.676)">
+          <circle
+             r="10"
+             id="circle23643"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-45"
+           transform="translate(678.01,158.064)">
+          <circle
+             r="10"
+             id="circle23646"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-46"
+           transform="translate(678.01,126.451)">
+          <circle
+             r="10"
+             id="circle23649"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-47"
+           transform="translate(678.01,94.838)">
+          <circle
+             r="10"
+             id="circle23652"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-48"
+           transform="translate(678.01,63.225)">
+          <circle
+             r="10"
+             id="circle23655"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#add8e6"
+           fill-opacity="1"
+           id="node-49"
+           transform="translate(678.01,31.613)">
+          <circle
+             r="10"
+             id="circle23658"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-50"
+           transform="translate(513.216,1517.412)">
+          <circle
+             r="10"
+             id="circle23661"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-51"
+           transform="translate(513.216,1359.348)">
+          <circle
+             r="10"
+             id="circle23664"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-52"
+           transform="translate(513.216,1217.091)">
+          <circle
+             r="10"
+             id="circle23667"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-53"
+           transform="translate(513.216,1106.446)">
+          <circle
+             r="10"
+             id="circle23670"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-54"
+           transform="translate(513.216,1011.608)">
+          <circle
+             r="10"
+             id="circle23673"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-55"
+           transform="translate(513.216,948.382)">
+          <circle
+             r="10"
+             id="circle23676"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-56"
+           transform="translate(513.216,869.35)">
+          <circle
+             r="10"
+             id="circle23679"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-57"
+           transform="translate(513.216,774.512)">
+          <circle
+             r="10"
+             id="circle23682"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-58"
+           transform="translate(513.216,648.061)">
+          <circle
+             r="10"
+             id="circle23685"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-59"
+           transform="translate(513.216,458.385)">
+          <circle
+             r="10"
+             id="circle23688"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-60"
+           transform="translate(513.216,284.515)">
+          <circle
+             r="10"
+             id="circle23691"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#f08080"
+           fill-opacity="1"
+           id="node-61"
+           transform="translate(513.216,142.257)">
+          <circle
+             r="10"
+             id="circle23694"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#add8e6"
+           fill-opacity="1"
+           id="node-62"
+           transform="translate(513.216,47.419)">
+          <circle
+             r="10"
+             id="circle23697"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-63"
+           transform="translate(348.422,1193.381)">
+          <circle
+             r="10"
+             id="circle23700"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-64"
+           transform="translate(348.422,821.931)">
+          <circle
+             r="10"
+             id="circle23703"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-65"
+           transform="translate(348.422,463.654)">
+          <circle
+             r="10"
+             id="circle23706"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#add8e6"
+           fill-opacity="1"
+           id="node-66"
+           transform="translate(348.422,94.838)">
+          <circle
+             r="10"
+             id="circle23709"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-67"
+           transform="translate(183.628,1007.656)">
+          <circle
+             r="10"
+             id="circle23712"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#add8e6"
+           fill-opacity="1"
+           id="node-68"
+           transform="translate(183.628,279.246)">
+          <circle
+             r="10"
+             id="circle23715"
+             cx="0"
+             cy="0" />
+        </g>
+        <g
+           fill="#d3d3d3"
+           fill-opacity="1"
+           id="node-69"
+           transform="translate(18.834,643.451)">
+          <circle
+             r="10"
+             id="circle23718"
+             cx="0"
+             cy="0" />
+        </g>
+      </g>
+      <g
+         class="toytree-NodeLabels"
+         style="font-size:10px;fill:#232323;fill-opacity:1;stroke:none"
+         id="g24003">
+        <g
+           transform="translate(675.23,1583.19)"
+           id="g23725">
+          <text
+             id="text23723">0</text>
+        </g>
+        <g
+           transform="translate(675.23,1551.58)"
+           id="g23729">
+          <text
+             id="text23727">1</text>
+        </g>
+        <g
+           transform="translate(675.23,1519.97)"
+           id="g23733">
+          <text
+             id="text23731">2</text>
+        </g>
+        <g
+           transform="translate(675.23,1488.35)"
+           id="g23737">
+          <text
+             id="text23735">3</text>
+        </g>
+        <g
+           transform="translate(675.23,1456.74)"
+           id="g23741">
+          <text
+             id="text23739">4</text>
+        </g>
+        <g
+           transform="translate(675.23,1425.13)"
+           id="g23745">
+          <text
+             id="text23743">5</text>
+        </g>
+        <g
+           transform="translate(675.23,1393.52)"
+           id="g23749">
+          <text
+             id="text23747">6</text>
+        </g>
+        <g
+           transform="translate(675.23,1361.9)"
+           id="g23753">
+          <text
+             id="text23751">7</text>
+        </g>
+        <g
+           transform="translate(675.23,1330.29)"
+           id="g23757">
+          <text
+             id="text23755">8</text>
+        </g>
+        <g
+           transform="translate(675.23,1298.68)"
+           id="g23761">
+          <text
+             id="text23759">9</text>
+        </g>
+        <g
+           transform="translate(672.45,1267.06)"
+           id="g23765">
+          <text
+             id="text23763">10</text>
+        </g>
+        <g
+           transform="translate(672.45,1235.45)"
+           id="g23769">
+          <text
+             id="text23767">11</text>
+        </g>
+        <g
+           transform="translate(672.45,1203.84)"
+           id="g23773">
+          <text
+             id="text23771">12</text>
+        </g>
+        <g
+           transform="translate(672.45,1172.23)"
+           id="g23777">
+          <text
+             id="text23775">13</text>
+        </g>
+        <g
+           transform="translate(672.45,1140.61)"
+           id="g23781">
+          <text
+             id="text23779">14</text>
+        </g>
+        <g
+           transform="translate(672.45,1109)"
+           id="g23785">
+          <text
+             id="text23783">15</text>
+        </g>
+        <g
+           transform="translate(672.45,1077.39)"
+           id="g23789">
+          <text
+             id="text23787">16</text>
+        </g>
+        <g
+           transform="translate(672.45,1045.78)"
+           id="g23793">
+          <text
+             id="text23791">17</text>
+        </g>
+        <g
+           transform="translate(672.45,1014.16)"
+           id="g23797">
+          <text
+             id="text23795">18</text>
+        </g>
+        <g
+           transform="translate(672.45,982.55)"
+           id="g23801">
+          <text
+             id="text23799">19</text>
+        </g>
+        <g
+           transform="translate(672.45,950.94)"
+           id="g23805">
+          <text
+             id="text23803">20</text>
+        </g>
+        <g
+           transform="translate(672.45,919.32)"
+           id="g23809">
+          <text
+             id="text23807">21</text>
+        </g>
+        <g
+           transform="translate(672.45,887.71)"
+           id="g23813">
+          <text
+             id="text23811">22</text>
+        </g>
+        <g
+           transform="translate(672.45,856.1)"
+           id="g23817">
+          <text
+             id="text23815">23</text>
+        </g>
+        <g
+           transform="translate(672.45,824.49)"
+           id="g23821">
+          <text
+             id="text23819">24</text>
+        </g>
+        <g
+           transform="translate(672.45,792.87)"
+           id="g23825">
+          <text
+             id="text23823">25</text>
+        </g>
+        <g
+           transform="translate(672.45,761.26)"
+           id="g23829">
+          <text
+             id="text23827">26</text>
+        </g>
+        <g
+           transform="translate(672.45,729.65)"
+           id="g23833">
+          <text
+             id="text23831">27</text>
+        </g>
+        <g
+           transform="translate(672.45,698.04)"
+           id="g23837">
+          <text
+             id="text23835">28</text>
+        </g>
+        <g
+           transform="translate(672.45,666.42)"
+           id="g23841">
+          <text
+             id="text23839">29</text>
+        </g>
+        <g
+           transform="translate(672.45,634.81)"
+           id="g23845">
+          <text
+             id="text23843">30</text>
+        </g>
+        <g
+           transform="translate(672.45,603.2)"
+           id="g23849">
+          <text
+             id="text23847">31</text>
+        </g>
+        <g
+           transform="translate(672.45,571.58)"
+           id="g23853">
+          <text
+             id="text23851">32</text>
+        </g>
+        <g
+           transform="translate(672.45,539.97)"
+           id="g23857">
+          <text
+             id="text23855">33</text>
+        </g>
+        <g
+           transform="translate(672.45,508.36)"
+           id="g23861">
+          <text
+             id="text23859">34</text>
+        </g>
+        <g
+           transform="translate(672.45,476.75)"
+           id="g23865">
+          <text
+             id="text23863">35</text>
+        </g>
+        <g
+           transform="translate(672.45,445.13)"
+           id="g23869">
+          <text
+             id="text23867">36</text>
+        </g>
+        <g
+           transform="translate(672.45,413.52)"
+           id="g23873">
+          <text
+             id="text23871">37</text>
+        </g>
+        <g
+           transform="translate(672.45,381.91)"
+           id="g23877">
+          <text
+             id="text23875">38</text>
+        </g>
+        <g
+           transform="translate(672.45,350.3)"
+           id="g23881">
+          <text
+             id="text23879">39</text>
+        </g>
+        <g
+           transform="translate(672.45,318.68)"
+           id="g23885">
+          <text
+             id="text23883">40</text>
+        </g>
+        <g
+           transform="translate(672.45,287.07)"
+           id="g23889">
+          <text
+             id="text23887">41</text>
+        </g>
+        <g
+           transform="translate(672.45,255.46)"
+           id="g23893">
+          <text
+             id="text23891">42</text>
+        </g>
+        <g
+           transform="translate(672.45,223.84)"
+           id="g23897">
+          <text
+             id="text23895">43</text>
+        </g>
+        <g
+           transform="translate(672.45,192.23)"
+           id="g23901">
+          <text
+             id="text23899">44</text>
+        </g>
+        <g
+           transform="translate(672.45,160.62)"
+           id="g23905">
+          <text
+             id="text23903">45</text>
+        </g>
+        <g
+           transform="translate(672.45,129.01)"
+           id="g23909">
+          <text
+             id="text23907">46</text>
+        </g>
+        <g
+           transform="translate(672.45,97.39)"
+           id="g23913">
+          <text
+             id="text23911">47</text>
+        </g>
+        <g
+           transform="translate(672.45,65.78)"
+           id="g23917">
+          <text
+             id="text23915">48</text>
+        </g>
+        <g
+           transform="translate(672.45,34.17)"
+           id="g23921">
+          <text
+             id="text23919">49</text>
+        </g>
+        <g
+           transform="translate(507.66,1519.97)"
+           id="g23925">
+          <text
+             id="text23923">50</text>
+        </g>
+        <g
+           transform="translate(507.66,1361.9)"
+           id="g23929">
+          <text
+             id="text23927">51</text>
+        </g>
+        <g
+           transform="translate(507.66,1219.65)"
+           id="g23933">
+          <text
+             id="text23931">52</text>
+        </g>
+        <g
+           transform="translate(507.66,1109)"
+           id="g23937">
+          <text
+             id="text23935">53</text>
+        </g>
+        <g
+           transform="translate(507.66,1014.16)"
+           id="g23941">
+          <text
+             id="text23939">54</text>
+        </g>
+        <g
+           transform="translate(507.66,950.94)"
+           id="g23945">
+          <text
+             id="text23943">55</text>
+        </g>
+        <g
+           transform="translate(507.66,871.91)"
+           id="g23949">
+          <text
+             id="text23947">56</text>
+        </g>
+        <g
+           transform="translate(507.66,777.07)"
+           id="g23953">
+          <text
+             id="text23951">57</text>
+        </g>
+        <g
+           transform="translate(507.66,650.62)"
+           id="g23957">
+          <text
+             id="text23955">58</text>
+        </g>
+        <g
+           transform="translate(507.66,460.94)"
+           id="g23961">
+          <text
+             id="text23959">59</text>
+        </g>
+        <g
+           transform="translate(507.66,287.07)"
+           id="g23965">
+          <text
+             id="text23963">60</text>
+        </g>
+        <g
+           transform="translate(507.66,144.81)"
+           id="g23969">
+          <text
+             id="text23967">61</text>
+        </g>
+        <g
+           transform="translate(507.66,49.97)"
+           id="g23973">
+          <text
+             id="text23971">62</text>
+        </g>
+        <g
+           transform="translate(342.86,1195.94)"
+           id="g23977">
+          <text
+             id="text23975">63</text>
+        </g>
+        <g
+           transform="translate(342.86,824.49)"
+           id="g23981">
+          <text
+             id="text23979">64</text>
+        </g>
+        <g
+           transform="translate(342.86,466.21)"
+           id="g23985">
+          <text
+             id="text23983">65</text>
+        </g>
+        <g
+           transform="translate(342.86,97.39)"
+           id="g23989">
+          <text
+             id="text23987">66</text>
+        </g>
+        <g
+           transform="translate(178.07,1010.21)"
+           id="g23993">
+          <text
+             id="text23991">67</text>
+        </g>
+        <g
+           transform="translate(178.07,281.8)"
+           id="g23997">
+          <text
+             id="text23995">68</text>
+        </g>
+        <g
+           transform="translate(13.27,646.01)"
+           id="g24001">
+          <text
+             id="text23999">69</text>
+        </g>
+      </g>
+      <g
+         class="toytree-TipLabels"
+         style="font-weight:normal;font-size:11px;font-family:helvetica;white-space:pre;fill:#232323;fill-opacity:1;stroke:none"
+         id="g24205">
+        <g
+           transform="translate(678.01,1580.64)"
+           id="g24007">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24005">0</text>
+        </g>
+        <g
+           transform="translate(678.01,1549.02)"
+           id="g24011">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24009">1</text>
+        </g>
+        <g
+           transform="translate(678.01,1517.41)"
+           id="g24015">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24013">2</text>
+        </g>
+        <g
+           transform="translate(678.01,1485.8)"
+           id="g24019">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24017">3</text>
+        </g>
+        <g
+           transform="translate(678.01,1454.19)"
+           id="g24023">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24021">4</text>
+        </g>
+        <g
+           transform="translate(678.01,1422.57)"
+           id="g24027">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#ff0000;fill-opacity:1"
+             id="text24025">5</text>
+        </g>
+        <g
+           transform="translate(678.01,1390.96)"
+           id="g24031">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24029">6</text>
+        </g>
+        <g
+           transform="translate(678.01,1359.35)"
+           id="g24035">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24033">7</text>
+        </g>
+        <g
+           transform="translate(678.01,1327.74)"
+           id="g24039">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24037">8</text>
+        </g>
+        <g
+           transform="translate(678.01,1296.12)"
+           id="g24043">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24041">9</text>
+        </g>
+        <g
+           transform="translate(678.01,1264.51)"
+           id="g24047">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24045">10</text>
+        </g>
+        <g
+           transform="translate(678.01,1232.9)"
+           id="g24051">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24049">11</text>
+        </g>
+        <g
+           transform="translate(678.01,1201.28)"
+           id="g24055">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24053">12</text>
+        </g>
+        <g
+           transform="translate(678.01,1169.67)"
+           id="g24059">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24057">13</text>
+        </g>
+        <g
+           transform="translate(678.01,1138.06)"
+           id="g24063">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24061">14</text>
+        </g>
+        <g
+           transform="translate(678.01,1106.45)"
+           id="g24067">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24065">15</text>
+        </g>
+        <g
+           transform="translate(678.01,1074.83)"
+           id="g24071">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24069">16</text>
+        </g>
+        <g
+           transform="translate(678.01,1043.22)"
+           id="g24075">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24073">17</text>
+        </g>
+        <g
+           transform="translate(678.01,1011.61)"
+           id="g24079">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24077">18</text>
+        </g>
+        <g
+           transform="translate(678.01,980)"
+           id="g24083">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24081">19</text>
+        </g>
+        <g
+           transform="translate(678.01,948.38)"
+           id="g24087">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24085">20</text>
+        </g>
+        <g
+           transform="translate(678.01,916.77)"
+           id="g24091">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24089">21</text>
+        </g>
+        <g
+           transform="translate(678.01,885.16)"
+           id="g24095">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24093">22</text>
+        </g>
+        <g
+           transform="translate(678.01,853.54)"
+           id="g24099">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24097">23</text>
+        </g>
+        <g
+           transform="translate(678.01,821.93)"
+           id="g24103">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24101">24</text>
+        </g>
+        <g
+           transform="translate(678.01,790.32)"
+           id="g24107">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24105">25</text>
+        </g>
+        <g
+           transform="translate(678.01,758.71)"
+           id="g24111">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24109">26</text>
+        </g>
+        <g
+           transform="translate(678.01,727.09)"
+           id="g24115">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24113">27</text>
+        </g>
+        <g
+           transform="translate(678.01,695.48)"
+           id="g24119">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24117">28</text>
+        </g>
+        <g
+           transform="translate(678.01,663.87)"
+           id="g24123">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24121">29</text>
+        </g>
+        <g
+           transform="translate(678.01,632.25)"
+           id="g24127">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24125">30</text>
+        </g>
+        <g
+           transform="translate(678.01,600.64)"
+           id="g24131">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24129">31</text>
+        </g>
+        <g
+           transform="translate(678.01,569.03)"
+           id="g24135">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24133">32</text>
+        </g>
+        <g
+           transform="translate(678.01,537.42)"
+           id="g24139">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24137">33</text>
+        </g>
+        <g
+           transform="translate(678.01,505.8)"
+           id="g24143">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24141">34</text>
+        </g>
+        <g
+           transform="translate(678.01,474.19)"
+           id="g24147">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24145">35</text>
+        </g>
+        <g
+           transform="translate(678.01,442.58)"
+           id="g24151">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24149">36</text>
+        </g>
+        <g
+           transform="translate(678.01,410.97)"
+           id="g24155">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24153">37</text>
+        </g>
+        <g
+           transform="translate(678.01,379.35)"
+           id="g24159">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24157">38</text>
+        </g>
+        <g
+           transform="translate(678.01,347.74)"
+           id="g24163">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24161">39</text>
+        </g>
+        <g
+           transform="translate(678.01,316.13)"
+           id="g24167">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#ff0000;fill-opacity:1"
+             id="text24165">40</text>
+        </g>
+        <g
+           transform="translate(678.01,284.51)"
+           id="g24171">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24169">41</text>
+        </g>
+        <g
+           transform="translate(678.01,252.9)"
+           id="g24175">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24173">42</text>
+        </g>
+        <g
+           transform="translate(678.01,221.29)"
+           id="g24179">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24177">43</text>
+        </g>
+        <g
+           transform="translate(678.01,189.68)"
+           id="g24183">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#ff0000;fill-opacity:1"
+             id="text24181">44</text>
+        </g>
+        <g
+           transform="translate(678.01,158.06)"
+           id="g24187">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#ff0000;fill-opacity:1"
+             id="text24185">45</text>
+        </g>
+        <g
+           transform="translate(678.01,126.45)"
+           id="g24191">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#ff0000;fill-opacity:1"
+             id="text24189">46</text>
+        </g>
+        <g
+           transform="translate(678.01,94.84)"
+           id="g24195">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#ff0000;fill-opacity:1"
+             id="text24193">47</text>
+        </g>
+        <g
+           transform="translate(678.01,63.23)"
+           id="g24199">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#000000;fill-opacity:1"
+             id="text24197">48</text>
+        </g>
+        <g
+           transform="translate(678.01,31.61)"
+           id="g24203">
+          <text
+             x="15"
+             y="2.8099999"
+             style="fill:#0000ff;fill-opacity:1"
+             id="text24201">49</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

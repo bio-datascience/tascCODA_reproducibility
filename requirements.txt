@@ -1,0 +1,13 @@
+numpy
+pandas
+tensorflow>=2.4
+tensorflow-probability>=0.12
+arviz>=0.10
+anndata
+patsy
+toytree
+sccoda>=0.1.4
+tascCODA==0.1.0
+sklearn
+seaborn
+toyplot
