@@ -4,7 +4,7 @@ sys.path.insert(0, '/home/icb/johannes.ostner/tree_aggregation/')
 import benchmarking_2.scripts.benchmark_functions as util
 
 data_path = "/home/icb/johannes.ostner/tree_aggregation/benchmarking_2/benchmark_2_cov/data"
-result_path = "/home/icb/johannes.ostner/tree_aggregation/benchmarking_2/benchmark_2_cov/results7"
+result_path = "/home/icb/johannes.ostner/tree_aggregation/benchmarking_2/benchmark_2_cov/results"
 bash_path = "/home/icb/johannes.ostner/tree_aggregation/benchmarking_2/benchmark_2_cov/slurm"
 
 model = "tree_agg"

@@ -84,7 +84,7 @@ def generate_datasets(K, D, cells_per_type, n_rep, save_path, seed=None):
 
 def run_benchmark_one_model(data_path, result_path, bash_path, benchmark_name, model, reg_method="None", model_params={}, datasets_per_job=500):
 
-    num_datasets = len(os.listdir(data_path + "/datasets2"))
+    num_datasets = len(os.listdir(data_path + "/datasets7"))
 
     batch_id = 0
     min_data = 0
@@ -159,7 +159,7 @@ def benchmark_job(data_path, save_path, min_id, max_id, batch_id, model, reg_met
 
     for n in range(min_id, max_id, 1):
         print(n)
-        dat = ad.read_h5ad(data_path + f"/datasets2/data_{n}")
+        dat = ad.read_h5ad(data_path + f"/datasets7/data_{n}")
         dat.uns["phylo_tree"] = tt.tree(newick=dat.uns["tree_newick"])
 
         res_key = (n, model, reg_method, lbda, phi)
