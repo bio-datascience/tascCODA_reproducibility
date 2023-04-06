@@ -7,7 +7,7 @@ as well as all figures generated in the process.
 ## Setup
 To reproduce the results, first install the packages listed in the `requirements.txt` file. 
 
-Then, download the raw and intermediate data from [zenodo](10.5281/zenodo.5302135) and unpack it in the same directory as this repository:
+Then, download the raw and intermediate data from [zenodo](https://zenodo.org/record/5302136) and unpack it in the same directory as this repository:
 
 ```
 <parent_directory>
